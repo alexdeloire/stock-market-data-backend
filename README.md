@@ -47,7 +47,7 @@ python3 main.py
 
 # Usage
 
-There is a frontend application to interact with the API. The frontend application can be found [here](https://github.com/alexdeloire/stock_market_data_frontend).
+There is a frontend application to interact with the API. The frontend application can be found [here](https://github.com/alexdeloire/stock-market-data-frontend).
 
 You can test uploading a csv file for new data with the files provided in the 'data_to_upload' folder.
 
